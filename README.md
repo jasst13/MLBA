@@ -6,12 +6,9 @@ Looking for junior data analyst position in healthcare indstury
 
 # Education
 
-- asdfsfasf
-- asfsdfsadf
-- asdfsadfsdf
+- Tunghai University
+    - International Relations
 
 # Experience
 
-- sadlfksdafkljdsf
-- sdal;fksda;ljfds
-- asd;lkfsadfjl;sdafj
+- Part time jobs
