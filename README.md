@@ -1,8 +1,8 @@
-# Machine Learning for Business Analytics
+# Jasslyn Tania Curriculum Vitae
 
 # Purpose
 
-Looking for junior data analyst position in healthcare indstury
+Looking for jobs
 
 # Education
 
