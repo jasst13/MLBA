@@ -1,6 +1,6 @@
 # Jasslyn Tania Curriculum Vitae
 
-![](cat.lnk)
+![](cat.Ink)
 
 # Purpose
 
