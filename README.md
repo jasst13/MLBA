@@ -1,5 +1,7 @@
 # Jasslyn Tania Curriculum Vitae
 
+![](cat.link)
+
 # Purpose
 
 Looking for jobs
