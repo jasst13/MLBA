@@ -1,10 +1,10 @@
-# Jasslyn Tania Curriculum Vitae
+# Jasslyn Tania
 
 ![](cat.jpg)
 
 # Purpose
 
-Looking for jobs
+Looking for job 
 
 # Education
 
@@ -14,14 +14,12 @@ Looking for jobs
 # Experience
 
 - Part time jobs
+- Volunteer in teaching English for primary students
+- Teaching church music ensemble for 9-17 years old students
 
 # Skills
 
-- Advance English
-- Intermediate Mandarin
-- Basic programing with Python
-- Critical thinking and analysis
-- Communications
-- Problem solving
-- Marketing Communication
-- Lobbying
+- IBT TOEFL score 96
+- Have basic skills in graphic design (canva)
+- Good at communications
+- Good at teamwork
