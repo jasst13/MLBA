@@ -22,4 +22,4 @@ Looking for job
 - IBT TOEFL score 96
 - Have basic skills in graphic design (canva)
 - Good at communications
-- Good at teamwork
+- Good at working as a team
